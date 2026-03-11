@@ -10,4 +10,5 @@ https://windsurf.com/
 
 https://antigravity.google/
 
+https://claude.ai/login
 
