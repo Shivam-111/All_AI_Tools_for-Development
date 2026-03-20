@@ -7,15 +7,25 @@ https://www.canva.com/templates
 ### 2) Generative AI / Coding / Automation
 
 https://claude.ai/login
+
 https://openai.com/
+
 https://www.deepseek.com/en/
+
 https://www.blackbox.ai/
+
 https://cursor.com/
+
 https://github.com/features/copilot
+
 https://replit.com/products/agent
+
 https://multi-ai.ai/en
+
 https://chatgpt.com/
+
 https://www.perplexity.ai/
+
 https://runwayml.com/
 
 
