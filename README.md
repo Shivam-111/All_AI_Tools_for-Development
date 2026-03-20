@@ -6,27 +6,20 @@
 
 ### 2) Generative AI / Coding / Automation
 
-[Claude](https://claude.ai/login)
+[Claude](https://claude.ai/login) 
+[OpenAI](https://openai.com/)  
+[DeepSeek](https://www.deepseek.com/en/)  
+[Blackbox AI](https://www.blackbox.ai/)  
+[Cursor](https://cursor.com/)  
+[GitHub Copilot](https://github.com/features/copilot)  
+[Replit Agent](https://replit.com/products/agent)  
+[Multi AI](https://multi-ai.ai/en)  
+[ChatGPT](https://chatgpt.com/)  
+[Perplexity AI](https://www.perplexity.ai/)  
+[Runway ML](https://runwayml.com/)  
 
-https://openai.com/
 
-https://www.deepseek.com/en/
 
-https://www.blackbox.ai/
-
-https://cursor.com/
-
-https://github.com/features/copilot
-
-https://replit.com/products/agent
-
-https://multi-ai.ai/en
-
-https://chatgpt.com/
-
-https://www.perplexity.ai/
-
-https://runwayml.com/
 
 
 
